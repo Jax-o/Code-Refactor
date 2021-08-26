@@ -64,7 +64,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-atl-virt-fsf-pt-08-2021-u-c/-/raw/master/01-HTML-Git-CSS/02-Homework/Develop/assets/images/digital-marketing-meeting.jpg");
+    background-image: url("./Images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
