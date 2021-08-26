@@ -1,4 +1,4 @@
-#Code Refactor assignment
+#Code Refactor 
 
 ##Description
 
@@ -11,4 +11,5 @@ to display changes made.
 
 Please see webpage at https://jax-o.github.io/Code-Refactor/
 
-![alt text](screenshots/screencapture-jax-o-github-io-Code-Refactor-2021-08-25-16_12_08.png "Screenshot of webpage")
+![screencapture-jax-o-github-io-Code-Refactor-2021-08-25-16_12_08](https://user-images.githubusercontent.com/88553985/130860837-c7fd21a4-d9d8-4189-8590-766c665eda73.png)
+
